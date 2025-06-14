@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Unity Project\DigitalTwin_Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Unity Project\DigitalTwin_Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Asus\Desktop\Unity Project\DigitalTwin_Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Asus\Desktop\Unity Project\DigitalTwin_Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Asus\Desktop\Unity Project\DigitalTwin_Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Asus\Desktop\Unity Project\DigitalTwin_Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
