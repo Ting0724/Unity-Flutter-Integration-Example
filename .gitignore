@@ -41,3 +41,62 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# -----------------------------
+# Unity-specific ignore rules
+# -----------------------------
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# Exclude auto-generated packages and plugins
+*.apk
+*.aab
+*.app
+*.xcworkspace
+*.xcuserstate
+
+# -----------------------------
+# Flutter-specific ignore rules
+# -----------------------------
+
+.dart_tool/
+.packages
+.pub/
+build/
+android/.gradle/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+
+# -----------------------------
+# General
+# -----------------------------
+*.log
+*.DS_Store
+*.idea/
+.vscode/
+*.iml
+*.class
+*.swp
+*.lock
+*.zip
+*.tar.gz
+*.orig
+
