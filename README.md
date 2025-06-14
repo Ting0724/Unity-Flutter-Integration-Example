@@ -1,16 +1,4 @@
-# digittwinsystem
+# Unity-Flutter-Integration-Example
+This repository provides a simple example of embedding a Unity application into a Flutter framework for website.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> ⚠️ **Note**: This project is only a demonstration and does **not** include any connection to physical hardware or external sensors.
