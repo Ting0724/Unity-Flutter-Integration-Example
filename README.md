@@ -3,5 +3,4 @@ This repository provides a simple example of embedding a Unity application into 
 
 > ⚠️ **Note**: This project is only a demonstration and does **not** include any connection to physical hardware or external sensors.
 
-> - Reference:
-  - [`flutter_unity_widget`](https://pub.dev/packages/flutter_unity_widget) to embed Unity into Flutter
+Reference link: [`flutter_unity_widget`](https://pub.dev/packages/flutter_unity_widget) to embed Unity into Flutter
